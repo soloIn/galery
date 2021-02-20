@@ -3,7 +3,7 @@
 #### 介绍
 图床工具
 地址
-http://solojojiojo.gitee.io/solo/src/main/resources/img/
+https://soloin.github.io/galery/img/
 
 #### 软件架构
 软件架构说明
@@ -17,9 +17,9 @@ http://solojojiojo.gitee.io/solo/src/main/resources/img/
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  add
+2.  commit
+3.  push
 
 #### 参与贡献
 
